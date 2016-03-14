@@ -1,6 +1,6 @@
 # PenDots
 
-*Pen Dots Algorithm was created through a process based on several experiments executed by humans and transcripted in JS5 done at the course “Input-Output” supervised by Fabian Morón Zirfas.
+*Pen Dots Algorithm was created through a process based on several experiments executed by humans and transcripted in JS5 done at the course “Input-Output” supervised by Fabian Morón Zirfas.*
 
 
 First step was to write an algorithm in ‘human language' which was executed by 5 other students. 
@@ -22,7 +22,9 @@ Draw a line in any direction. After a while turn right. Keep on drawing an turn 
 The lines can cross, but they don’t have to. 
 After several repetitions choose a new point and start again.
 When you decide to have drawn enough line, take black ink and paint over the paper to make the lines visible. 
-This algorithm was executed by 10 people in a bar. These were the results. 
+
+This algorithm was executed by 10 people in a bar. 
+These were the results. 
 
 ![](/images/1-1.jpg)
 
