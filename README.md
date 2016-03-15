@@ -59,7 +59,7 @@ Thought the goal was to write an algorithm which creates a visual appealing patt
 
 *First tries.*
 
-![](/images/spirale1.jpg)
+![](/images/spirale1j.jpg)
 ![](/images/spirale2.jpg)
 ![](/images/spirale3.jpg)
 
