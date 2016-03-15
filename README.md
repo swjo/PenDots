@@ -27,6 +27,7 @@ This algorithm was executed by 10 people in a bar.
 These were the results. 
 
 ![](/images/1-1.jpg)
+![]/images/complete.jpg)
 
 
 Apart from two images, the results were pretty accurate, although some people had problems with the ink. One person started to “turn”/fold the paper instead of the line and kept on painting the line over the folded paper. An other one just put a few drops on the paper and liked it so much, that she left it this way instead of painting it over to make the white lines visible. 
