@@ -56,8 +56,21 @@ The first try was to translate this system into code. The result was an inactive
 ![](/images/programm.jpg)
 
 Thought the goal was to write an algorithm which creates a visual appealing pattern. Therefore one of the images was picked and a new try was write a code with would create these kind of pattern. 
-First tries. 
+
+*First tries.*
+
+![](/images/spirale1.jpg)
+![](/images/spirale2.jpg)
+![](/images/spirale3.jpg)
+
+
 By changing the frequency and size of the dots and adding random variables different result were achieved until reaching one which was satisfying. 
-How can one use it? 
+
+![](/images/pen.jpg)
+
+####How can one use it? 
+
 3D printed this pattern could turn into original pen. Each dot turn into a black sphere connected with transparent material to keep the magic. 
+
+![](/images/mockup.jpg)
  
