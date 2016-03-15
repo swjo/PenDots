@@ -7,9 +7,12 @@ First step was to write an algorithm in ‘human language' which was executed by
 
 ###Version 1.0
 
-Draw a line in a random direction. After a while turn right. Keep on drawing and turn right again. Repeat several times. 
+>Draw a line in a random direction. After a while turn right. Keep on drawing and turn right again. Repeat several times. 
 Line lines can cross, but they don’t have to. After several repetitions choose a new point and start again.
+
 These were the result. 
+
+![](/images/class.jpg)
 
 None of them was exactly what was in mind while writing these steps although all them were visually appealing. It’s interesting that it haven’t been mention that the line has to be straight and still almost everyone sticked to a straight line. 
 
