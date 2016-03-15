@@ -10,7 +10,7 @@ The first step was to write an algorithm in ‘human language' which was execute
 >Draw a line in a random direction. After a while turn right. Keep on drawing and turn right again. Repeat several times. 
 Line lines can cross, but they don’t have to. After several repetitions choose a new point and start again.
 
-These were the result. 
+These were the results. 
 
 ![](/images/class.jpg)
 
@@ -18,7 +18,7 @@ None of them was exactly what was in the mind of the developer while writing the
 
 ###Version 2.0
 
-For the second version an explicit material was added to improve the visual appearance.  
+For the second version, an explicit material was added to improve the visual appearance.  
 
 >Take a squared piece of paper and a white candle. 
 Draw a line in any direction. After a while turn right. Keep on drawing an turn right again. Repeat this action serval times without removing the candle from the paper. 
