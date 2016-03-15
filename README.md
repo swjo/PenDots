@@ -35,15 +35,18 @@ These were the results.
 
 Apart from two images, the results were pretty accurate, although some people had problems with the ink. One person started to “turn”/fold the paper instead of the line and kept on painting the line over the folded paper. An other one just put a few drops on the paper and liked it so much, that she left it this way instead of painting it over to make the white lines visible. 
 
-Version 2.1
+###Version 2.1
 
 To achieve more variety and visual freedom some of the lines where removed again.
 
-Choose a squared piece of paper and a white candle.
+>Choose a squared piece of paper and a white candle.
 Draw a random form on the paper. 
 Take black ink and paint over the paper to make the lines visible. 
-One person just draw the outlines and painted the form black. Others started to burn the candle and paint with the dripping wax. Every sheet of paper became different still they were untied by the material and the style. 
+One person just draw the outlines and painted the form black. Others started to burn the candle and paint with the dripping wax. Every sheet of paper became different still they were untied by the material and the style.
 
+![](/images/3.jpg)
+![](/images/2-1.jpg)
+![](/images/4.jpg)
 
 
 
