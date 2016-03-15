@@ -3,7 +3,7 @@
 *Pen Dots Algorithm was created through a process based on several experiments executed by humans and transcripted in JS5 done at the course “Input-Output” supervised by Fabian Morón Zirfas.*
 
 
-First step was to write an algorithm in ‘human language' which was executed by 5 other students. 
+The first step was to write an algorithm in ‘human language' which was executed by 5 other students. 
 
 ###Version 1.0
 
@@ -14,7 +14,7 @@ These were the result.
 
 ![](/images/class.jpg)
 
-None of them was exactly what was in mind while writing these steps although all them were visually appealing. It’s interesting that it haven’t been mention that the line has to be straight and still almost everyone sticked to a straight line. 
+None of them was exactly what was in the mind of the developer while writing these steps although all them were visually appealing. It’s interesting that it hasn’t been mentioned that the line has to be straight and still almost everyone sticked to a straight line. 
 
 ###Version 2.0
 
@@ -33,7 +33,7 @@ These were the results.
 ![](/images/complete.jpg)
 
 
-Apart from two images, the results were pretty accurate, although some people had problems with the ink. One person started to “turn”/fold the paper instead of the line and kept on painting the line over the folded paper. An other one just put a few drops on the paper and liked it so much, that she left it this way instead of painting it over to make the white lines visible. 
+Apart from two images, the results were pretty accurate, although some people had problems with the ink. One person started to “turn”/fold the paper instead of the line and kept on painting the line over the folded paper. Another one just put a few drops on the paper and liked it so much, that she left it this way instead of painting it over to make the white lines visible. 
 
 ###Version 2.1
 
@@ -52,11 +52,11 @@ One person just draw the outlines and painted the form black. Others started to 
 
 ###Translating the algorithm in p5js
 
-The first try was to translate this system into code. The result was an inactive program. Once started it created a with form on white background. By moving the mouse the user was painting the background black until the form became visible. While clicking the mouse some sprinkle spots appeared to imitate the possibilities one has by using ink. 
+The first try was to translate this system into code. The result was an inactive program. Once started it created a white form on white background. By moving the mouse the user was painting the background black until the form became visible. While clicking the mouse some sprinkle spots appeared to imitate the possibilities one has by using ink. 
 
 ![](/images/programm.jpg)
 
-Though the goal was to write an algorithm which creates a visual appealing pattern. Therefore one of the images was picked and a new try was write a code with would create these kind of pattern. 
+However, the goal was to write an algorithm which creates a visually appealing pattern. Therefore, one of the images was picked and a new attempt was to write a code which would create these kinds of patterns, based on the mathematical formulas used to calculate spirals. 
 
 *First tries.*
 
@@ -75,13 +75,13 @@ Though the goal was to write an algorithm which creates a visual appealing patte
 ![](/images/spirale3.jpg)
 
 
-By changing the frequency and size of the dots and adding random variables different result were achieved until reaching one which was satisfying. 
+By changing the frequency and size of the dots and adding random variables different results were achieved until reaching one which was satisfying. 
 
 ![](/images/pen.jpg)
 
 ####How can one use it? 
 
-3D printed this pattern could turn into original pen. Each dot turn into a black sphere connected with transparent material to keep the magic. 
+If 3D printed, this pattern could turn into an original pen. Each dot would turn into a black sphere connected with transparent material to keep the magic. 
 
 ![](/images/mockup.jpg)
  
