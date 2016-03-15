@@ -50,17 +50,28 @@ One person just draw the outlines and painted the form black. Others started to 
 
 
 
-Translating the algorithm in p5js
+###Translating the algorithm in p5js
+
 The first try was to translate this system into code. The result was an inactive program. Once started it created a with form on white background. By moving the mouse the user was painting the background black until the form became visible. While clicking the mouse some sprinkle spots appeared to imitate the possibilities one has by using ink. 
 
 ![](/images/programm.jpg)
 
-Thought the goal was to write an algorithm which creates a visual appealing pattern. Therefore one of the images was picked and a new try was write a code with would create these kind of pattern. 
+Though the goal was to write an algorithm which creates a visual appealing pattern. Therefore one of the images was picked and a new try was write a code with would create these kind of pattern. 
 
 *First tries.*
 
 ![](/images/spirale1j.jpg)
+
+
+
+
+
 ![](/images/spirale2.jpg)
+
+
+
+
+
 ![](/images/spirale3.jpg)
 
 
