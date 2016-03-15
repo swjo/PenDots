@@ -1,6 +1,6 @@
 # PenDots
 
-*Pen Dots Algorithm was created through a process based on several experiments executed by humans and transcripted in JS5 done at the course “Input-Output” supervised by Fabian Morón Zirfas.*
+*Pen Dots Algorithm was created through a process based on several experiments executed by humans and transcripted in p5js done at the course “Input-Output” supervised by Fabian Morón Zirfas.*
 
 
 The first step was to write an algorithm in ‘human language' which was executed by 5 other students. 
