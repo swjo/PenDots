@@ -85,3 +85,5 @@ If 3D printed, this pattern could turn into an original pen. Each dot would turn
 
 ![](/images/mockup.jpg)
  
+####How to install it?
+Clone the repository https://github.com/swjo/PenDots to your desktop. Run index.html
